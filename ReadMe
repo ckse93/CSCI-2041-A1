@@ -1,0 +1,7 @@
+testing instruction 
+
+It will work properly on OCaml ver 4.06.
+open UTOP in Linux terminal and type #use "filename" where filename is the file you want to test. 
+declare variables and call the function to test if it returns desired outcome.
+
+Or, you can just use the Makefile by typing "make test-p1" through "make test-p3". 
